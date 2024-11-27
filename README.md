@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋🏼
 
-<!--
-**data4selles/data4selles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics graduate with a strong foundation in Machine Learning and Statistics. Currently pursuing a Master's degree to further enhance my expertise in these fields. My background combines rigorous math knowledge and programming skills, enabling me to tackle complex problems and build innovative solutions.
 
-Here are some ideas to get you started:
+## This GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This space is where I store my personal projects, coding experiments, and notes. It's a place to explore my passion for technology, data analysis, and problem-solving.
+
+## Interests
+
+Beyond coding, I’m deeply interested in the startup ecosystem, entrepreneurship, and business strategy. I enjoy staying inspired by podcasts and books on innovation, always looking for new ways to turn challenges into opportunities.
+
+## Get in touch
+
+✉️ Feel free to reach out via email: sellesperezalejandro@gmail.com.
