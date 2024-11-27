@@ -4,7 +4,7 @@ I'm a Mathematics graduate with a strong foundation in Machine Learning and Stat
 
 ## This GitHub
 
-This space is where I store my personal projects, coding experiments, and notes. It's a place to explore my passion for technology, data analysis, and problem-solving.
+This space is where I store my personal projects, coding experiments, and notes. It's a place to explore my passion for Technology, Machine Learning, Finance, and Problem-solving.
 
 ## Interests
 
